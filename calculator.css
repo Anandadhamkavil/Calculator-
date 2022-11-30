@@ -1,0 +1,19 @@
+.border{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.form-control{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+    
+
+.d2{
+    background-color:cadetblue;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.btn{
+    margin-bottom: 5px;
+    color: white;
+}
